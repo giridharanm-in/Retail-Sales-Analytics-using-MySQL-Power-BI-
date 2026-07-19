@@ -154,19 +154,19 @@ Business Insights
 
 ## Executive Dashboard
 
-![Executive Dashboard](powerbi/Dashboard.png)
+![Executive Dashboard](Overview.png)
 
 ---
 
 ## Category Analysis
 
-![Category Analysis](powerbi/Category_Analysis.png)
+![Category Analysis](Category_analysis.png)
 
 ---
 
 ## Customer Analysis
 
-![Customer Analysis](powerbi/Customer_Analysis.png)
+![Customer Analysis](Customer_analysis.png)
 
 ---
 
